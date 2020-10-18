@@ -1,0 +1,18 @@
+.venv
+.env
+venv
+env
+__pycache__/
+.idea/
+.vscode/
+*.pyc
+*.egg-info
+
+dist
+.DS_Store
+
+# generated images
+*.png
+*.jpg
+*.svg
+*.pdf
